@@ -65,3 +65,5 @@ function App() {
   ...
 
 ```
+
+github pagesで公開 -> https://hdys-ttbys.github.io/goya-app/
